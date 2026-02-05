@@ -16,4 +16,4 @@
 
   <h1 align="center">Knowledge</h1>
 
-  <img width=70px src="https://img.shields.io/badge/LUA-42%25-blue">           <img width=80px src="https://img.shields.io/badge/HTML-18%25-orange">                                                <img width=72px src="https://img.shields.io/badge/C++-18%25-cyan"> 
+  <img width=70px src="https://img.shields.io/badge/LUA-42%25-blue">           <img width=80px src="https://img.shields.io/badge/HTML-18%25-orange">                                                <img width=72px src="https://img.shields.io/badge/C++-3%25-cyan"> 
