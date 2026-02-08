@@ -1,3 +1,4 @@
+
    <h1 align="center">Hello there, I'm Luminum! </h1>
 
    <p align="center">
@@ -17,3 +18,4 @@
   <h1 align="center">Knowledge</h1>
 
   <img width=70px src="https://img.shields.io/badge/LUA-42%25-blue">           <img width=80px src="https://img.shields.io/badge/HTML-18%25-orange">                                             
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Check+my+repositories+=D)](https://git.io/typing-svg)
